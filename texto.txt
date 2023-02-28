@@ -15,3 +15,5 @@ En este momento estoy modificando todo desde la nube.
 Ahora vamos a hacer la prueba para enviarlo al repositorio en la nube.
 
 Ahora cambiamos todo para la conexion SSH.
+
+El cambio de conexion de http a SSH fue exitoso
