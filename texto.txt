@@ -10,4 +10,6 @@ apartir de ahora viene la prueba de fuego
 
 La prueba de fuego fue exitosa
 
-En este momento estoy modificando todo desde la nube
+En este momento estoy modificando todo desde la nube.
+
+Ahora vamos a hacer la prueba para enviarlo al repositorio en la nube.
