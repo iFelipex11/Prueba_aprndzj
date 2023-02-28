@@ -3,3 +3,5 @@ En esta primera version vamos a probar distintos comandos de git como:
 Primero que todo hacemos el git init
 
 Despues de esto agregamos el add ., tambien podriamos usar el add "nombre del archivo".
+
+Esta es una prueba para demostrar todos los conocimientos adquiridos desde la clase 20-25.
